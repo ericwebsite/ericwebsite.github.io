@@ -13,8 +13,7 @@ In this website, I will share with you:
 If you like my page, you can send me a feedback to ***.
 Please contact us on user.email eric.wang.us@hotmail.com.
 
-## 1.Minecraft.
 
-### chapter1.1
+## 1. Minecraft
 
-How to play minecraft?Why is the sun and the clouds square?
+Everything about [Minecraft](Minecraft/index.md)
