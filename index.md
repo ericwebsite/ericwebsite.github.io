@@ -17,3 +17,5 @@ Please contact us on user.email eric.wang.us@hotmail.com.
 ## 1. Minecraft
 
 Everything about [Minecraft](Minecraft/index.md)
+
+## 2. Python
