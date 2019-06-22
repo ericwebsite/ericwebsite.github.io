@@ -19,3 +19,6 @@ Please contact us on user.email eric.wang.us@hotmail.com.
 Everything about [Minecraft](Minecraft/index.md)
 
 ## 2. Python
+
+## 3. Snap Circuits
+Some of the good ideas. Find out [more](SnapCircuits/index.md)
