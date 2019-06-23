@@ -29,7 +29,7 @@ turtle.done()
 3. is a loop for later. 
 4. goes forward in x(0,1,2,3,4,5,6,7,8,9,10,...,90,91,92,93,94,95,96,97,98,99)
 5. turnes left 90 degrees(A square corner)
-6.saves as image
-7.tell turtle"You are done"
+6. saves as image
+7. tell turtle"You are done"
 
 ![](images/spiral.jpg)
