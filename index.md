@@ -20,5 +20,8 @@ Everything about [Minecraft](Minecraft/index.md)
 
 ## 2. Python
 
+[More](Python/index.md)
+
 ## 3. Snap Circuits
+
 Some of the good ideas. Find out [more](SnapCircuits/index.md)
