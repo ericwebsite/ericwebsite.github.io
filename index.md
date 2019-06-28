@@ -25,3 +25,7 @@ Everything about [Minecraft](Minecraft/index.md)
 ## 3. Snap Circuits
 
 Some of the good ideas. Find out [more](SnapCircuits/index.md)
+
+## 4. My world
+
+[Diary](./Diary/index.md)
