@@ -4,6 +4,8 @@ B = input("What is the number?")
 
 if A != "b":
     C = int(B, 2)
+    D = "base 10"
 else:
     C = bin(int(B, 10))
-print("{} in {} is {}.".format(B,A,C))
+    D = "base 2"
+print("{} in {} is {}.".format(B,D,C))
