@@ -7,7 +7,7 @@ Today I had a day at a hotel. My parents drove for more than
  My dream is a teacher teaching me solutions to unknown puzzles.
  I wrote them down.
  
-###7 /5/2019
+### 7/5/2019
  I see paw patrol. I went to ruby beach. Then home.
  
  
@@ -18,11 +18,15 @@ Today I had a day at a hotel. My parents drove for more than
     Did you know:
     On Independence day(7/4/2019), I say more 
     then 200 fireworks!
+    
  Thanks to Gordon, we went to the trip.
 
-![](images/fireworks.JPG) 
+![](images/fireworks.JPG)
+
 ![](images/rubybeach.JPG) 
+
 ![](images/rubybeach1.JPG)
+
 ![](images/rubybeach2.JPG)  
 
 ## 06/28/2019 Amazon Day
