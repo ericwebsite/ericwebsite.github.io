@@ -1,5 +1,27 @@
 [Home](../index.md)
 
+## 7/7/2019 Big Fore Ice Caves
+
+I went to the Big 4 Is Ice Cave today.
+ 
+I went all the way there and it was a long trip.
+When I got there, I saw Big 4 Ice Cave.
+The cave looked big and around.
+It looked I could go through it. 
+When I walked closer, I felt cold and all water dropped down like raindrops.
+Then I climbed the huge rock and mum took photos for me. 
+Before go home, I found a special rock like cheese.
+I pretended to eat it.
+ 
+I really like that whole trip.
+
+![](images/iceCave.jpg)
+
+![](images/bigRock.jpg)
+
+![](images/cheeseRock.jpg)
+
+
 ## 7/6/2019 LEGO Game - Don't Topple The Tower(s)
 ![](images/game.jpg)
 
