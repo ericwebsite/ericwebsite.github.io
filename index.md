@@ -4,6 +4,7 @@ Hello everyone,
 
 This is Eric. I am a 4th grader student. I love Minecraft, puzzle, and Python.
 
+dad = my dad(Denny)
 
 In this website, I will share with you:
 
