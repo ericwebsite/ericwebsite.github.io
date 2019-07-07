@@ -1,4 +1,4 @@
-[Home](index.md)
+[Home](../index.md)
 
 ## 7/6/2019 LEGO Game - Don't Topple The Tower(s)
 ![](images/game.jpg)
