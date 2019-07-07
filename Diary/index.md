@@ -17,7 +17,7 @@ I really like that whole trip.
 
 ![](images/iceCave.jpg)
 
-![](images/bigRock.jpg)
+![](images/bigRock.JPG)
 
 ![](images/cheeseRock.jpg)
 
