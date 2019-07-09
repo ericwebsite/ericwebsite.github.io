@@ -1,5 +1,34 @@
 [Home](../index.md)
 
+
+## 7/8/2019
+Today I learned Chinese , "How to introduce Yourself". I am here to show you.
+你好
+Nǐ hǎo
+That means hello. You normally greet with 
+Nǐ hǎo
+ to normal china people.
+ 
+###Introduce(1)
+我姓(last name)
+This can be translated as "My last name (is)"
+If I introduce, I may say"
+你好
+(Nǐ hǎo)
+我姓王
+(Wǒ xìng wàng)"
+
+###Introduce(2)
+I can also translate using 我叫(first name, nickname, or full name)
+(Wǒ jiào)This is translated as "My name is".
+ Tip:
+ If your first name have 1(not 2) caracters, you can only use full name or nickname.
+My full (Chinese )name is wangruihan
+(王瑞涵)I may say 
+"Nihaw wojiaowangruihan。"
+
+So zaijian(bye) (user's Chinese name), see you next time.
+
 ## 7/7/2019 Big Fore Ice Caves
 
 I went to the Big 4 Is Ice Cave today.
