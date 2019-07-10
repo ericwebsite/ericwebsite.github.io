@@ -1,5 +1,8 @@
 [Home](../index.md)
+
+
 ##7/9/2019 social in the park(dream BIG)
+
 Today is social park day. I met Lauren, Adith, and Kanyi.
 
  
@@ -13,17 +16,17 @@ Then we played running Tic Tac Toe.
 
 I won 4 times. I love the game and I wish I can play again. 
 
-![](images/image-11.png)
+![](images/Image-11.png)
 
-![](images/image-12.png)
+![](images/Image-12.png)
 
-![](images/image-13.png)
+![](images/Image-13.png)
 
-![](images/image-14.png)
+![](images/Image-14.png)
 
 I also played on the igloo and the rest of the playground. 
 
-![](images/image-15.png)
+![](images/Image-15.png)
 
 Today, I have lots of fun. I want to go there again. 
 
