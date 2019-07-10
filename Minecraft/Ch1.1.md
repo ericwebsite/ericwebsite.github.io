@@ -1,3 +1,1 @@
-## How to play Minecraft
-
-Start here.
+[Home](../index.md) > [Minecraft](../Minecraft/index.md)

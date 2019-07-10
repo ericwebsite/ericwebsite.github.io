@@ -229,4 +229,5 @@ t.mainloop()
 start_game()
 
 t.hideturtle()
-t.done()san
+t.done()
+

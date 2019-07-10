@@ -1,6 +1,35 @@
 [Home](../index.md)
+##7/9/2019 social in the park(dream BIG)
+Today is social park day. I met Lauren, Adith, and Kanyi.
+
+ 
+First, I listened to a story. It was about going to Mars. 
+Then we played running Tic Tac Toe.
+1. we set it up with sticks, beanbags, and toy monkeys.
+2. We separate into 2 groups. 
+3. We take turns, try to get 3 in a row.
+4. I run, place my item, run, and then tag my partner.
 
 
+I won 4 times. I love the game and I wish I can play again. 
+
+![](images/image-11.png)
+
+![](images/image-12.png)
+
+![](images/image-13.png)
+
+![](images/image-14.png)
+
+I also played on the igloo and the rest of the playground. 
+
+![](images/image-15.png)
+
+Today, I have lots of fun. I want to go there again. 
+
+
+Today, I also have a BIG dream of saving animals. I am proud of myself. 
+Mom is also proud of me. 
 ## 7/8/2019
 Today I learned Chinese , "How to introduce Yourself". I am here to show you.
 你好
