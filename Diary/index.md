@@ -1,7 +1,7 @@
 [Home](../index.md)
 
 
-##7/9/2019 social in the park(dream BIG)
+## 7/9/2019 social in the park(dream BIG)
 
 Today is social park day. I met Lauren, Adith, and Kanyi.
 
@@ -33,7 +33,9 @@ Today, I have lots of fun. I want to go there again.
 
 Today, I also have a BIG dream of saving animals. I am proud of myself. 
 Mom is also proud of me. 
+
 ## 7/8/2019
+
 Today I learned Chinese , "How to introduce Yourself". I am here to show you.
 你好
 Nǐ hǎo
@@ -41,7 +43,8 @@ That means hello. You normally greet with
 Nǐ hǎo
  to normal china people.
  
-###Introduce(1)
+### Introduce(1)
+
 我姓(last name)
 This can be translated as "My last name (is)"
 If I introduce, I may say"
@@ -50,7 +53,8 @@ If I introduce, I may say"
 我姓王
 (Wǒ xìng wàng)"
 
-###Introduce(2)
+### Introduce(2)
+
 I can also translate using 我叫(first name, nickname, or full name)
 (Wǒ jiào)This is translated as "My name is".
  Tip:
@@ -84,11 +88,13 @@ I really like that whole trip.
 
 
 ## 7/6/2019 LEGO Game - Don't Topple The Tower(s)
+
 ![](images/game.jpg)
 
 ![](images/gameScoreSheet.jpg)
 
 ### Rules for the game
+
 Build the game as shown( some pieces are hiding and/or aren't in your
  lego collection). To play, put 5 marbles, one at a time, on the clear 
 plastic. Here is the clearer version of the score:
@@ -146,6 +152,7 @@ I also see a pear(. Wow).
 I love running (I mean walking )on a trail( with my dad).
 
 ## 7/4/2019 and 7/5/2019 Olympia National Park
+
 ### 7/4/2019
 
 Today I had a day at a hotel. My parents drove for more than 
@@ -154,6 +161,7 @@ Today I had a day at a hotel. My parents drove for more than
  I wrote them down.
  
 ### 7/5/2019
+
  I see paw patrol. I went to ruby beach. Then home.
  
  
