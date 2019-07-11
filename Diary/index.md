@@ -1,6 +1,6 @@
 [Home](../index.md)
 
-##7/11/201[9*]()
+##7/11/2019
 
 Today is Basketball day. I met Melinda. 
 I was at a basketball court in my school. 
@@ -291,3 +291,53 @@ campus here. See picture below.
     
 ![](./images/amazon.jpg)
 (*clicked, nothing happened)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
