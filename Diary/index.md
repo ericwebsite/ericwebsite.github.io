@@ -1,5 +1,50 @@
 [Home](../index.md)
-##7/10/2019 social in the pool[(:]()
+
+##7/11/201[9*]()
+
+Today is Basketball day. I met Melinda. 
+I was at a basketball court in my school. 
+Melinda and I start out by letting me try to make it in. I start a little of the line near the hoop. 
+
+![](images/Basketball.1.png)
+
+![](images/Basketball.2.png)
+
+Then, I go to the left of the hoop. it is on point 1. 
+
+![](images/Basketball.3.png)
+
+![](images/Basketball.4.png)
+
+![](images/Basketball.5.png)
+
+Then, I go to the right of the hoop. it is on point 5. 
+After that, i go around a circle.
+![(image1)](images/Basketball.6.png)
+Then, I show of my dribbling skills. 
+![(image2)](images/Basketball.7.png)
+After that, I try to steal Melinda's ball. 
+   But not really. It is from me. 
+When I have the ball, Melinda try to steal my ball
+   But not really, or Melinda is mean. 
+![(image3)](images/Basketball.8.png)
+![(image4)](images/Basketball.9.png)
+
+After that, I  try to win poison
+but I lost 1 time. 
+
+1. All players stand in a line.
+2. The first person shoots the ball in the hoop.
+3. If he/she made it, the person runs to the pole.
+4. Then the person touches his ball on the pole and says "poison".
+5. The second person can't move. The first person roll it to the second person. 
+6. If he/she hit the second person, then the first person won. 
+7. If the first person miss the second person, or didn't made the ball in the hoop, The second person shoots. 
+![(image10)](images/Basketball.14.png)
+![(image11)](images/Basketball.17.png)
+Then, I practice dribbling. 
+![(image14)](images/Basketball.16.png)
+##7/10/2019 social in the pool[(:*]()
 
 Today is social pool day. I met Lauren and Sammy. 
 
@@ -225,7 +270,7 @@ Today I had a day at a hotel. My parents drove for more than
 
 I even saw
 
-## 06/28/2019 Amazon Day
+## [06/28/2019]() Amazon Day
 
 Today I went to amazon. I will tell you this is what I went to:
 
@@ -245,3 +290,4 @@ ones in the history and my conclution is the best one is
 campus here. See picture below.
     
 ![](./images/amazon.jpg)
+(*clicked, nothing happened)
