@@ -1,6 +1,29 @@
 [Home](../index.md)
+##7/10/2019 social in the pool[(:]()
 
+Today is social pool day. I met Lauren and Sammy. 
 
+First, we played basketball. 
+We set the basketball hoop up in the pool. 
+I went first. Lauren made me throw far. I mostly threw the ball in the hoop. Then, Sammy threw the ball to the hoop. 
+The game was fun. 
+
+![](images/Swiming.pool1.jpeg)
+
+![](images/Swiming.pool2.jpeg)
+
+![](images/Swiming.pool3.jpeg)
+
+I also saw Anthony at the pool. Then, we played Tic Tac Toe. 
+I set a board and the Tic-Tac-Toe cross on the edge of the pool. 
+We split into 2 teams. 
+One person runs to the Tic-Tac-Toe cross. 
+Then he/she places their choice, then run back. 
+I lose. ):
+After the game, we went to Sammy's pretend cupcake store. 
+We ate a cupcake, then a cupcake grow out of our skins! 
+Then I need to go. That is my fun hour. 
+Bye. See you soon! :D
 ## 7/9/2019 social in the park(dream BIG)
 
 Today is social park day. I met Lauren, Adith, and Kanyi.
@@ -23,6 +46,20 @@ I won 4 times. I love the game and I wish I can play again.
 ![](images/Image-13.png)
 
 ![](images/Image-14.png)
+
+![](images/thumbnail_2.png)
+
+![](images/thumbnail_5.png)
+
+![](images/thumbnail_6.png)
+
+![](images/thumbnail_8.png)
+
+![](images/thumbnail_7.png)
+
+![](images/thumbnail_10.png)
+
+![](images/thumbnail_11.png)
 
 I also played on the igloo and the rest of the playground. 
 
