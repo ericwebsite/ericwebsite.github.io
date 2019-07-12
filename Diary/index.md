@@ -1,6 +1,41 @@
 [Home](../index.md)
+##7/12/2019
 
-##7/11/2019
+Today is Basketball day. I met Melinda. 
+First, we go to Nike park. 
+We played around the world. 
+1. Melinda draw the numbers  1-6.
+2. We start at number 1. 
+3. First, I shoot at the hoop.
+4. Then, Melinda shoot at the hoop.
+5. If someone shoot it in, their number goes to 2,3,4, and so on. 
+6. The first person to get to 6, wins.
+
+![](images/Basketball.20.png)
+![](images/Basketball.21.png)
+
+Next, we play Layup( not really a game).
+
+![](images/Basketball.22.png)
+![](images/Basketball.23.png)
+
+Then, we move the cones anywhere we want. We try not to knock down the cones. 
+After that, I try to steal Melinda's ball. 
+When I have the ball, Melinda try to steal my ball
+
+
+![](images/Basketball.24.png)
+![](images/Basketball.25.png)
+![](images/Basketball.26.png)
+![](images/Basketball.27.png)
+![](images/Basketball.28.png)
+![](images/Basketball.29.png)
+
+Then we played Around the world. Melinda won. 
+Then we played Follow the line. 
+At last we played Cup stacking at home. 
+
+##7/12/2019
 
 Today is Basketball day. I met Melinda. 
 I was at a basketball court in my school. 
@@ -19,14 +54,13 @@ Then, I go to the left of the hoop. it is on point 1.
 ![](images/Basketball.5.png)
 
 Then, I go to the right of the hoop. it is on point 5. 
-After that, i go around a circle.
+After that, I go around a circle.
 ![(image1)](images/Basketball.6.png)
 Then, I show of my dribbling skills. 
 ![(image2)](images/Basketball.7.png)
 After that, I try to steal Melinda's ball. 
-   But not really. It is from me. 
 When I have the ball, Melinda try to steal my ball
-   But not really, or Melinda is mean. 
+
 ![(image3)](images/Basketball.8.png)
 ![(image4)](images/Basketball.9.png)
 

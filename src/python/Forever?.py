@@ -15,10 +15,11 @@ else:
     output = ""
     #Uh oh!
     time.sleep(3)
+    print("You saw red, red, green")
     while output != "rrg":
         output = ""
         for a in range(3):
-            press = input("Do you want to push red(r),or green(g): ")
+            press = input("Do you want to push red(r),or green(not r): ")
             if press == "r":
                 print("red added")
                 output += "r"
@@ -35,10 +36,9 @@ else:
     else:
         print("incorecto")
         print("it's 9, not ",b)
-c = input("Call(c), or run(r): ")
-while c == "c":
-            print("call sucsess")
-            print("You siginal for help")
-            print("You win!!!!!!!!!!!!!!!!!!!!!!")
-else:
-            print("You can't run. You are trapped")
+    c = input("Call(c), or run(r): ")
+    while c == "r":
+        print("You can't run. You are trapped")
+    print("Call seceded!")
+    print("But you still can't get out.")
+    print("To be continued...")

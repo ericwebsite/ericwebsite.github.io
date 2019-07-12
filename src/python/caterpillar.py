@@ -187,7 +187,7 @@ def move_left():
 
 
 def move_right():
-    if caterpillar.heading() == 90 or caterpillar.heading() == 0:
+    if caterpillar.heading() == 90 or caterpillar.heading() == 270:
         caterpillar.setheading(0)
 
 
@@ -214,7 +214,7 @@ def caterpillar2_move_left():
 
 
 def caterpillar2_move_right():
-    if caterpillar2.heading() == 90 or caterpillar2.heading() == 0:
+    if caterpillar2.heading() == 90 or caterpillar2.heading() == 270:
         caterpillar2.setheading(0)
 
 
