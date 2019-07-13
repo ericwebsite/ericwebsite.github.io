@@ -7,12 +7,28 @@ When I arrived, I give flowers to Michele. She felt happy. she thank me!
 ![](images/Flowers.1.png)
 
 Then, we play in the gym. 
-We played play-dough. During play-dough, we talk about the unthinkables. 
+We played play-dough. During play-dough, we talked about the unthinkable. 
+    
+    Mu unthinkable team:
+    Leader: Glassman
+    stratagy: Deep breath
+    Time: He is taking over the world
+    #2: Brain eater
+    Stratagy: stop playing
+    time: When momy wants me to stop
+    #3: Wasfunonce(was-fun-once)
+    Stratagy: stop it. 
+    time: 
+    #4: 
+    Stragaty: 
+    time: 
+
 When we pack up, we got popsicles. 
 
 ![](images/Michele.1.png)
 ![](images/Michele.3.png)
 ![](images/Michele.2.png)
+
 ##7/12/2019
 
 Today is Basketball day. I met Melinda. 
