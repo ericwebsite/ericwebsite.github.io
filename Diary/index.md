@@ -1,4 +1,18 @@
 [Home](../index.md)
+##7/13/2019
+
+Today is the last social day. I met Liam, Siddhartha, And Matene. 
+When I arrived, I give flowers to Michele. She felt happy. she thank me!
+
+![](images/Flowers.1.png)
+
+Then, we play in the gym. 
+We played play-dough. During play-dough, we talk about the unthinkables. 
+When we pack up, we got popsicles. 
+
+![](images/Michele.1.png)
+![](images/Michele.3.png)
+![](images/Michele.2.png)
 ##7/12/2019
 
 Today is Basketball day. I met Melinda. 
@@ -304,7 +318,7 @@ Today I had a day at a hotel. My parents drove for more than
 
 I even saw
 
-## [06/28/2019]() Amazon Day
+## 06/28/2019 Amazon Day
 
 Today I went to amazon. I will tell you this is what I went to:
 
@@ -324,54 +338,3 @@ ones in the history and my conclution is the best one is
 campus here. See picture below.
     
 ![](./images/amazon.jpg)
-(*clicked, nothing happened)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
