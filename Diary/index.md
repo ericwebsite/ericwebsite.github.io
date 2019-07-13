@@ -18,12 +18,9 @@ We played play-dough. During play-dough, we talked about the unthinkable.
     time: When momy wants me to stop
     #3: Wasfunonce(was-fun-once)
     Stratagy: stop it. 
-    time: 
-    #4: 
-    Stragaty: 
-    time: 
 
-When we pack up, we got popsicles. 
+After we pack up, we got popsicles. We all got orange flavor. 
+It's good and yummy. 
 
 ![](images/Michele.1.png)
 ![](images/Michele.3.png)
