@@ -1,4 +1,48 @@
 [Home](../index.md)
+##7/14/2019 Turning tumble
+
+Today, I am going to teach you a game called Turning Tumble. 
+
+![](images/IMG_0473.JPG)
+
+1. Each challenge has an object. You must create a machine to do the object. 
+2. To start a machine, You must press the start button once. 
+3. Once the machine is in motion, you cannot touch the machine or otherwise interfere with it's operator
+4. Your machine canno5t let balls drop freely for any distance. See the example above. 
+5. Challenges start easy, but they become exceedingly difficult, even for a seasoned deep space telecommunications engineer. 
+
+    If you get stuck, take a break and come back to the puzzle later. 
+
+---
+
+### Example:
+
+1. set up it matching, decorations and/or parts may vary. 
+
+![q](images/IMG_0477.JPG)
+![](images/IMG_0478.jpg)
+
+2.Set up your solution. The lines is the path. 
+
+![](images/IMG_0479.jpg)
+
+3.test it. press the "press to start" button. 
+
+![](images/IMG_0483.JPG)
+
+###The parts:
+
+![](images/IMG_0471.JPG)
+![](images/IMG_0472.JPG)
+
+Ramp: ball goes out a side depending on which way it face*.
+Crossover: ball enters one side and out the other. 
+Bit: ball goes out one side and then changes the direction it points depending which direction it is pointing before*. 
+Interceptor( not shown): stops the marble computer from running. 
+Gear bit: gear bits flip each other. If only 2 gear bits are connected together, put high-function washers behind each of them to make them run smoothly. 
+
+*Animation included in the part when touched by ball. 
+
 ##7/13/2019
 
 Today is the last social day. I met Liam, Siddhartha, And Matene. 
