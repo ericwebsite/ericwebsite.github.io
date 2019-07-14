@@ -1,7 +1,8 @@
 [Home](../index.md)
-##7/14/2019 Turning tumble
 
-Today, I am going to teach you a game called Turning Tumble. 
+## 7/14/2019 Turning tumble
+
+Today, I am going to teach you a game called Turning Tumble. It is a marble-powered computer. I lijke it. 
 
 ![](images/IMG_0473.JPG)
 
@@ -30,7 +31,7 @@ Today, I am going to teach you a game called Turning Tumble.
 
 ![](images/IMG_0483.JPG)
 
-###The parts:
+### The parts:
 
 ![](images/IMG_0471.JPG)
 ![](images/IMG_0472.JPG)
@@ -43,7 +44,7 @@ Gear bit: gear bits flip each other. If only 2 gear bits are connected together,
 
 *Animation included in the part when touched by ball. 
 
-##7/13/2019
+## 7/13/2019
 
 Today is the last social day. I met Liam, Siddhartha, And Matene. 
 When I arrived, I give flowers to Michele. She felt happy. she thank me!
