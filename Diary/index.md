@@ -2,14 +2,14 @@
 
 ## 7/14/2019 Turning tumble
 
-Today, I am going to teach you a game called Turning Tumble. It is a marble-powered computer. I lijke it. 
+Today, I am going to teach you a game called Turning Tumble. It is a marble-powered computer. I like it. 
 
 ![](images/IMG_0473.JPG)
 
 1. Each challenge has an object. You must create a machine to do the object. 
 2. To start a machine, You must press the start button once. 
 3. Once the machine is in motion, you cannot touch the machine or otherwise interfere with it's operator
-4. Your machine canno5t let balls drop freely for any distance. See the example above. 
+4. Your machine cannot let balls drop freely for any distance. See the example above. 
 5. Challenges start easy, but they become exceedingly difficult, even for a seasoned deep space telecommunications engineer. 
 
     If you get stuck, take a break and come back to the puzzle later. 
@@ -151,7 +151,8 @@ but I lost 1 time.
 ![(image11)](images/Basketball.17.png)
 Then, I practice dribbling. 
 ![(image14)](images/Basketball.16.png)
-##7/10/2019 social in the pool[(:*]()
+
+##7/10/2019 social in the pool:)
 
 Today is social pool day. I met Lauren and Sammy. 
 
@@ -176,6 +177,7 @@ After the game, we went to Sammy's pretend cupcake store.
 We ate a cupcake, then a cupcake grow out of our skins! 
 Then I need to go. That is my fun hour. 
 Bye. See you soon! :D
+
 ## 7/9/2019 social in the park(dream BIG)
 
 Today is social park day. I met Lauren, Adith, and Kanyi.

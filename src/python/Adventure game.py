@@ -34,21 +34,21 @@ if q1 == "A" or q1 == "0.2":
         print("...out of the world")
         lose_a_life(20)
         game_over()
-    
-    print("Good idea, let's walk back")
-    choice2 = input("go up(u), or down(d)?")
-    import turtle
-    t = turtle.Pen()
-    if choice2 == "u":
-        print("Ouch")
-        t.goto(200,200)
-        lose_a_life(2)
-    if choice2 == "d" or choice2 == "u":
-        t.goto(200,-200)
-    if lives < 1:
-        game_over()
-    else:
-        win()
+    if choice1 != "l" or choice1 != "s":
+        print("Good idea, let's walk back")
+        choice2 = input("go up(u), or down(d)?")
+        import turtle
+        t = turtle.Pen()
+        if choice2 == "u":
+            print("Ouch")
+            t.goto(200,200)
+            lose_a_life(2)
+        if choice2 == "d" or choice2 == "u":
+            t.goto(200,-200)
+        if lives < 1:
+            game_over()
+        else:
+            win()
 else:
     print("You lose!")
     game_over()

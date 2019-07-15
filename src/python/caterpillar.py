@@ -68,7 +68,7 @@ def Game_over(name, score):
     t.penup()
     t.hideturtle()
     t.color('green')
-    t.write('Game Over Thank You ' + str(name) + ' won, scored ' \
+    t.write('Game Ov er Thank You ' + str(name) + ' won, scored ' \
             + str(score), align='center', font= \
                 ('ariel', 30, 'normal'))
 
