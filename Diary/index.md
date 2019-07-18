@@ -1,6 +1,6 @@
 [Home](../index.md)
 
- ##Emotions helper (out of the red Zone).
+##Emotions helper (out of the red Zone).
  
 
 Today, I was angry at mom! I have a HUGE ARGUMENT with mom. 
