@@ -1,5 +1,38 @@
 [Home](../index.md)
 
+ ##Emotions helper (out of the red Zone).
+ 
+
+Today, I was angry at mom! I have a HUGE ARGUMENT with mom. 
+When I got there, my mom is faster than me like I am a turtle and she is a hare. 
+My mom pushed me to walk fast. 
+
+![](images/Arguing.jpeg)
+
+Eric said "I can't! "
+
+Mom said "Then run. "
+
+Eric said "I am not in the mood"
+
+Mom said that I am selfish because I use my mood. 
+
+I thought she was selfish because she used her (hurrying )mood.
+
+At the pool, I and lauren work together to make a paper of calm. 
+
+![](images/Eric.trigger.com.png(3).png)
+
+When I came back from pool, I was calm from the calm pool with a calm sheet of
+paper in my calm hand and a calm person named Lauren. Lauren made a chart about my angry emotions. 
+here are the triggers:
+
+![](images/Eric.Trigger.com.png)
+
+And here is how I calm down:
+
+![](images/Eric.Triger.com.png(2).png)
+
 ## Yellowstone national park
 
 Soon, I am going to Yellowstone National park with my family. We are going to drive there. It will be a long drive. We might stop along the way and stay in a hotel. The truth is I don't really know so much about yellowstone, but I'm going to learn when I go there.                                                                                      
@@ -18,7 +51,7 @@ Today, I am going to teach you a game called Turning Tumble. It is a marble-powe
 
     If you get stuck, take a break and come back to the puzzle later. 
 
----
+-------------------------------------------------------------------
 
 ### Example:
 
