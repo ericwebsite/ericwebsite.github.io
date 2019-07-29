@@ -17,16 +17,16 @@ Please contact us on user.email eric.wang.us@hotmail.com.
 
 ## 1. Minecraft
 
-Everything about [Minecraft](Minecraft/index.md) or take a[ shortcut](Minecraft/Ch1.1.md)
+Everything about [Minecraft](Minecraft/index.md) or take a[ shortcut](Minecraft/Ch1.1.md).
 
 ## 2. Python
 
-[More](Python/index.md)
+[More](Python/index.md) about python, you may click [here.](Python/index.md)
 
 ## 3. Snap Circuits
 
-Some of the good ideas. Find out [more](SnapCircuits/index.md)
+Some of the good ideas. Find out [more](SnapCircuits/index.md).
 
 ## 4. My world
 
-[Diary](./Diary/index.md)
+Press [here.](./Diary/index.md)

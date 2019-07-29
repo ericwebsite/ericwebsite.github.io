@@ -1,4 +1,43 @@
-[Home](../index.md)
+Go to [home.](../index.md)
+
+##7/29/2019 basket ball
+
+Today my brother, Gordon, is my coach. we go to Nike park. 
+
+![](images/Basketball.30.png)
+![](images/Basketball.31.png)
+
+We warm up by shooting to the hoop. 
+Then, I dribble. 
+
+![](images/Basketball.32.png)
+
+then, I shoot at the line
+
+![](images/Basketball.33.png)
+![](images/Basketball.34.png)
+
+Then, I try stealing my brothers ball. 
+    But not really, or I am mean. 
+And he sometimes try to steal my ball. 
+    But not really, or he is mean.
+Next, I zig-zag to the cones.
+    But not really, because I am going from one to the other. 
+Next, we have a game. 
+Whoever gets his/her opponent's ball out of
+ a area win's!
+I play with Cindy and Gordon. 
+Mom says me and Gordon can get some ice cream!
+
+##7/28/2019 bike ride. 
+
+I was going on bike when I finish Dinner. I am now at bike park.
+I go on straight. I go on a trail called "Don't stop, won't stop" and "Easy A"
+. I can show you. 
+
+![images](images/Bike.1.png)
+
+![](images/Bike.1.png)
 
 ##Emotions helper (out of the red Zone).
  
@@ -436,3 +475,5 @@ ones in the history and my conclution is the best one is
 campus here. See picture below.
     
 ![](./images/amazon.jpg)
+
+Go to [home.](../index.md)

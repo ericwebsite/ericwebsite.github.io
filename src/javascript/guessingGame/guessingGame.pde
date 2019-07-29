@@ -1,36 +1,30 @@
 
 
-void setup()
-{
-  size(400,400);
-background(186, 145, 20); // wooden table
 
-ellipse(200, 200, 350, 350); // plate
-ellipse(200, 200, 300, 300);
 
-stroke(184, 132, 74); //bread
-fill(184, 132, 74);
-stroke(184, 132, 74);
-arc(200,200,100,100,0,180);
+void setup() {
+    size(800, 600);
+    var x = 400;
+    var y = 300;
+    background(100, 100, 200);
+}
+void draw(){
 
-fill(255,0,0); //sausage
-stroke(255, 0, 0);
-arc(163,200,11,22,180,360);
-arc(238,200,11,22,180,360);
 
-fill(255,255,255); //Hider
-stroke(255,255,255);
-arc(200,170,60,100,0,180);
-  //noLoop();
+
+
+
+      if (mouseX < 550 && mouseX > 400 && mouseY < 250 && mouseY > 200 && mousePressed){
+
+        fill(50, 50, 255/2);
+      }else{
+        fill(100, 100, 255);
+      }
+      rect(x, y, 150, 50);
+      quad(x, y, x, y + 50, x - 30, y + 80, x - 30, y + 30);
+      quad(x+150, y+50, x, y + 50, x - 30, y + 80, x+120, y + 80);
+      fill(0, 0, 0);
+      text("play!", x+50, y+25);
 }
 
-void draw()
- {
-   /*
-   background(127);
-   stroke(-200.0);
-   line(0,25,width,25);
-   stroke(600.0);
-   line(0,75,width,75);
-   */
- }
+
