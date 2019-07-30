@@ -1,5 +1,9 @@
 Go to [home.](../index.md)
 
+##The Great Yellowstone Scavenger Hunt
+
+I went on a great yellowstone scavenger hunt vacation. I went with my family. We got there by car. It was fun. I saw many animals. I say bison, gray wolf, black bear, the grizzly bear, and some dear. I visited lots of places in the park: Steamboat geyser, Mineral terrance, old faithful, and artist's paint pot. I also saw mammoth hot springs. I like my Great Yellowstone Scavenger Hunt 
+
 ##7/29/2019 basket ball
 
 Today my brother, Gordon, is my coach. we go to Nike park. 
@@ -46,7 +50,7 @@ Today, I was angry at mom! I have a HUGE ARGUMENT with mom.
 When I got there, my mom is faster than me like I am a turtle and she is a hare. 
 My mom pushed me to walk fast. 
 
-![](images/Arguing.jpeg)
+![](images/Arguing.jpeg)                                                                                                                                                                                                                                                                                                                     
 
 Eric said "I can't! "
 
@@ -116,7 +120,7 @@ Ramp: ball goes out a side depending on which way it face*.
 Crossover: ball enters one side and out the other. 
 Bit: ball goes out one side and then changes the direction it points depending which direction it is pointing before*. 
 Interceptor( not shown): stops the marble computer from running. 
-Gear bit: gear bits flip each other. If only 2 gear bits are connected together, put high-function washers behind each of them to make them run smoothly. 
+Gear bit: gear bits flip each other. If only 2 gear bits are connected together, put high-function washers behind each of them to make them run smoothly*. 
 
 *Animation included in the part when touched by ball. 
 
