@@ -1,0 +1,907 @@
+/* Fall back colors? Eg educator, talks & interviews */
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#khanType {
+  /* Used to style the topic title on a topic page, eg
+  "Introduction to algebra" on /math/algebra/introduction-to-algebra.
+  Also used for the tutorial title on tutorial landing pages.
+  Not restricted to styling the titles of "Topic" entities. */
+}
+.vertical-shadow {
+  border: 1px solid #ccc;
+  border-bottom: 1px solid #aaa;
+  box-shadow: 0 1px 3px #ccc;
+}
+html.page-container-min-width-zero body,
+html.page-container-min-width-zero #page-container {
+  min-width: 0;
+}
+.objectives-loading {
+  color: #555;
+  text-align: center;
+}
+.objectives-loading img {
+  display: block;
+  margin: 20px auto;
+}
+.encouraging-message,
+.completion-message {
+  font-size: 16px;
+  max-width: 150px;
+}
+.encouraging-message span,
+.completion-message span {
+  display: block;
+  text-align: center;
+}
+.cool-critter {
+  background: url(/images/scratchpads/cool-critter.png);
+  height: 179px;
+  width: 200px;
+}
+.happy-critter {
+  background-image: url(/images/scratchpads/happy-critter.png);
+  height: 126px;
+  width: 125px;
+}
+.jumping-critter {
+  background: url(/images/scratchpads/jumping-critter.png);
+  height: 135px;
+  width: 120px;
+}
+.challenge-tooltip {
+  margin-left: 20px;
+  margin-top: 60px;
+  padding: 5px;
+  z-index: 1000 !important;
+}
+.challenge-tooltip .qtip-content {
+  text-align: center;
+}
+.challenge-tooltip .simple-button {
+  margin-top: 10px;
+  font-size: 16px;
+  padding: 8px;
+}
+#challenge-task-container {
+  margin-bottom: 20px;
+  position: relative;
+  width: 100%;
+}
+#challenge-task-container .random-stuff {
+  float: right;
+}
+#challenge-task-container h2 {
+  margin-bottom: 10px;
+}
+#challenge-task-container .challenge-warning {
+  color: red;
+  margin-top: 8px;
+  font-size: 14px;
+}
+#challenge-task-container .challenge-warning #challenge-warning-message {
+  display: none;
+}
+#challenge-task-container .objectives-pane-outer {
+  background-color: #f7f7f7;
+  border-bottom-color: #ddd;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-top-color: #ddd;
+  border-top-style: solid;
+  border-top-width: 2px;
+  min-height: 135px;
+  padding: 20px;
+  position: relative;
+}
+#challenge-task-container .objectives-pane-outer.scratchpad-objectives-notchallenge {
+  min-height: 0;
+}
+#challenge-task-container .objectives-pane-outer.scratchpad-objectives-notchallenge #complete-critter {
+  display: none;
+}
+#challenge-task-container .objectives-pane-outer.scratchpad-objectives-notchallenge #complete-spin-off {
+  display: none;
+}
+#challenge-task-container .objectives-pane-outer.scratchpad-objectives-notchallenge .goal-pane {
+  min-height: 80px;
+}
+#challenge-task-container .objectives-pane-outer.scratchpad-objectives-notchallenge .goal-pane .right-pane {
+  right: 0;
+}
+#challenge-task-container .objectives-pane-outer .happy-critter {
+  background-color: #f7f7f7;
+  bottom: 20px;
+  right: 15px;
+  position: absolute;
+}
+#challenge-task-container .objectives-pane-outer .jumping-critter {
+  bottom: 20px;
+  right: 15px;
+  position: absolute;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step {
+  color: #555;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .rainbowjs {
+  background-color: transparent;
+  margin-bottom: 0;
+  padding: 0;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .rainbowjs .block.block-statement .grabber {
+  display: none;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .rainbowjs .block.block-statement > div,
+#challenge-task-container .objectives-pane-outer .challenge-step .rainbowjs .block.block-statement .block-wrapper > :first-child,
+#challenge-task-container .objectives-pane-outer .challenge-step .rainbowjs .block.block-statement .block-rgb.block-name-r {
+  cursor: default;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .rainbowjs .block.block-variable > span.input {
+  width: 40px;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description {
+  color: #555;
+  margin-right: 410px;
+  width: auto;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description.full-width {
+  margin-right: 0;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description p {
+  margin-top: 0px;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description ul,
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description ol {
+  margin: 0.5em;
+  padding-left: 30px;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description ul {
+  list-style: disc;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description ol {
+  list-style: decimal;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description code {
+  font-family: monospace;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description span.crowdin_phrase {
+  display: inline-block;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-description h4 {
+  margin-bottom: 11px;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-challenge-wrap {
+  overflow: hidden;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-challenge-image {
+  float: right;
+  max-width: 140px;
+  max-height: 100px;
+  border: 1px solid #ccc;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-structure {
+  display: block;
+  float: right;
+  margin-top: -31px;
+  width: 400px;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-structure h3 {
+  color: #555;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-structure .test-challenge-whats-this-hint {
+  cursor: pointer;
+  font-size: 0.7em;
+  margin-left: 0.4em;
+  color: #aaa;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .test-structure .rainbowjs {
+  user-select: none;
+  cursor: default;
+}
+#challenge-task-container .objectives-pane-outer .challenge-step .save-button {
+  margin-top: 22px;
+}
+#challenge-task-container .objectives-pane-outer .goal-pane {
+  min-height: 235px;
+  position: relative;
+}
+#challenge-task-container .objectives-pane-outer .goal-pane .cool-critter {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#challenge-task-container .objectives-pane-outer .goal-pane .left-pane {
+  vertical-align: top;
+}
+#challenge-task-container .objectives-pane-outer .goal-pane .left-pane .points {
+  color: #555;
+  font-size: 16px;
+}
+#challenge-task-container .objectives-pane-outer .goal-pane .left-pane .points .point-label {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+  word-wrap: break-word;
+}
+#challenge-task-container .objectives-pane-outer .goal-pane .left-pane .points .point-counter {
+  font-size: 35px;
+  margin-left: 5px;
+  margin-top: 10px;
+  vertical-align: middle;
+}
+#challenge-task-container .objectives-pane-outer .goal-pane .left-pane .points .point-counter img {
+  height: 30px;
+  width: 30px;
+}
+#challenge-task-container .objectives-pane-outer .goal-pane .cool-critter,
+#challenge-task-container .objectives-pane-outer .goal-pane .left-pane,
+#challenge-task-container .objectives-pane-outer .goal-pane .right-pane {
+  display: inline-block;
+}
+#challenge-task-container .objectives-pane-outer .goal-pane .right-pane {
+  bottom: 0;
+  position: absolute;
+  right: 200px;
+  text-align: right;
+  vertical-align: middle;
+  width: 395px;
+}
+#challenge-task-container .objectives-pane-outer .goal-pane .right-pane .simple-button {
+  display: block;
+  float: left;
+  font-size: 15px;
+  height: auto;
+  margin: 5px;
+  padding: 10px;
+}
+#challenge-task-container .new-scratchpad {
+  position: absolute;
+  right: 0px;
+  text-decoration: none;
+  top: -30px;
+}
+#challenge-task-container .task-root-nav {
+  position: absolute;
+  top: -30px;
+  width: 100%;
+}
+#challenge-task-container .task-root-nav a {
+  color: #fff;
+  display: block;
+  float: left;
+  height: 20px;
+  min-width: 200px;
+  padding: 5px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+#challenge-task-container .task-header-container {
+  /* no arrows on the last tab */
+}
+#challenge-task-container .task-header-container .task-header {
+  position: relative;
+}
+#challenge-task-container .task-header-container .task-header.has-progress,
+#challenge-task-container .task-header-container .task-header .has-progress {
+  min-height: 100px;
+}
+#challenge-task-container .task-header-container .challenge-progress {
+  font-size: 18px;
+  position: absolute;
+  bottom: 0px;
+  right: 20px;
+  text-align: right;
+  -webkit-font-smoothing: antialiased;
+}
+#challenge-task-container .task-header-container #challenge-status-message {
+  font-size: 14px;
+  text-align: left;
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+#challenge-task-container .task-header-container #challenge-progress-bar {
+  margin-right: 10px;
+}
+#challenge-task-container .task-header-container #challenge-description {
+  min-height: 35px;
+  max-width: 38%;
+}
+#challenge-task-container .task-header-container .task-icon {
+  position: relative;
+  display: inline-block;
+}
+#challenge-task-container .task-header-container .task-icon .check-pass,
+#challenge-task-container .task-header-container .task-icon .check-fail {
+  border-color: white;
+  border: 2px solid;
+  display: inline-block;
+  height: 36px;
+  /* i can't figure out how to vertically center this */
+  line-height: 33px;
+  margin-right: -10px;
+  padding: 3px;
+  padding-left: 14px;
+  text-align: center;
+  width: 55px;
+}
+#challenge-task-container .task-header-container .task-icon .check-pass i,
+#challenge-task-container .task-header-container .task-icon .check-fail i {
+  font-size: 30px;
+}
+#challenge-task-container .task-header-container .task-icon .white-arrow-right {
+  border-bottom: 23px solid transparent;
+  border-left: 18px solid white;
+  border-top: 23px solid transparent;
+  height: 0;
+  position: absolute;
+  right: -19px;
+  top: 0;
+  width: 0;
+  z-index: 1;
+}
+#challenge-task-container .task-header-container .task-icon .check-fail .cs-themed-arrow-right,
+#challenge-task-container .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-bottom: 21px solid transparent;
+  border-left: 17px solid black;
+  border-top: 21px solid transparent;
+  display: inline-block;
+  height: 0;
+  position: absolute;
+  right: -16px;
+  top: 2px;
+  width: 0;
+  z-index: 2;
+}
+#challenge-task-container .task-header-container .task-icon .check-fail {
+  background-color: #6a8da6;
+}
+#challenge-task-container .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #6a8da6;
+}
+#challenge-task-container .task-header-container .task-icon .check-fail i {
+  color: #93c263;
+}
+#challenge-task-container .task-header-container .task-icon .check-pass {
+  background-color: #314453;
+}
+#challenge-task-container .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #314453;
+}
+#challenge-task-container .task-header-container .task-icon .check-pass i {
+  color: white;
+}
+#challenge-task-container .task-header-container .task-icon .check-fail:hover,
+#challenge-task-container .task-header-container .task-icon .check-pass:hover {
+  cursor: pointer;
+}
+#challenge-task-container .task-header-container .no-hover:hover {
+  cursor: auto;
+}
+#challenge-task-container .task-header-container .no-hover:hover .check-pass:hover,
+#challenge-task-container .task-header-container .no-hover:hover .check-fail:hover {
+  cursor: auto;
+}
+#challenge-task-container .task-header-container .task-icon:first-child {
+  /* shrink the first tab */
+  /* adjust the arrow position */
+}
+#challenge-task-container .task-header-container .task-icon:first-child .check-pass,
+#challenge-task-container .task-header-container .task-icon:first-child .check-fail {
+  padding-left: 5px;
+}
+#challenge-task-container .task-header-container .task-icon:first-child .arrow-up {
+  margin-bottom: -2px;
+  margin-left: 23px;
+  position: relative;
+}
+#challenge-task-container .task-header-container .task-icon:last-child .check-fail i {
+  color: white;
+}
+#challenge-task-container .task-header-container .task-icon:last-child .white-arrow-right {
+  display: none;
+}
+#challenge-task-container .task-header-container .task-icon:last-child .check-pass .cs-themed-arrow-right,
+#challenge-task-container .task-header-container .task-icon:last-child .check-fail .cs-themed-arrow-right {
+  display: none;
+}
+#challenge-task-container .task-header-container .task-icon:last-child i {
+  margin-left: 0px;
+}
+#challenge-task-container .task-header-container .active .arrow-up {
+  border-bottom: 13px solid #f7f7f7;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  height: 0;
+  margin-bottom: -2px;
+  margin-left: 23px;
+  margin-top: 8px;
+  position: relative;
+  width: 0;
+  z-index: 1;
+}
+.tutorial-content .task-root-nav {
+  display: none;
+}
+#challenge-task-container.science .task-root-nav .domain {
+  background: #c55f73;
+}
+#challenge-task-container.science .task-root-nav .topic {
+  background: #e0aab5;
+}
+#challenge-task-container.science .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #c55f73;
+}
+#challenge-task-container.science .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #94424f;
+}
+#challenge-task-container.science .task-header-container .task-icon .check-fail {
+  background-color: #c55f73;
+}
+#challenge-task-container.science .task-header-container .task-icon .check-pass {
+  background-color: #94424f;
+}
+#challenge-task-container.humanities .task-root-nav .domain {
+  background: #d24a45;
+}
+#challenge-task-container.humanities .task-root-nav .topic {
+  background: #e69a97;
+}
+#challenge-task-container.humanities .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #d24a45;
+}
+#challenge-task-container.humanities .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #ad3434;
+}
+#challenge-task-container.humanities .task-header-container .task-icon .check-fail {
+  background-color: #d24a45;
+}
+#challenge-task-container.humanities .task-header-container .task-icon .check-pass {
+  background-color: #ad3434;
+}
+#challenge-task-container.economics-finance-domain .task-root-nav .domain {
+  background: #d1933b;
+}
+#challenge-task-container.economics-finance-domain .task-root-nav .topic {
+  background: #e4c18e;
+}
+#challenge-task-container.economics-finance-domain .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #d1933b;
+}
+#challenge-task-container.economics-finance-domain .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #b77033;
+}
+#challenge-task-container.economics-finance-domain .task-header-container .task-icon .check-fail {
+  background-color: #d1933b;
+}
+#challenge-task-container.economics-finance-domain .task-header-container .task-icon .check-pass {
+  background-color: #b77033;
+}
+#challenge-task-container.cs .task-root-nav .domain {
+  background: #689b51;
+}
+#challenge-task-container.cs .task-root-nav .topic {
+  background: #9fc48e;
+}
+#challenge-task-container.cs .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #689b51;
+}
+#challenge-task-container.cs .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #437a39;
+}
+#challenge-task-container.cs .task-header-container .task-icon .check-fail {
+  background-color: #689b51;
+}
+#challenge-task-container.cs .task-header-container .task-icon .check-pass {
+  background-color: #437a39;
+}
+#challenge-task-container.hour-of-code .task-root-nav .domain {
+  background: #689b51;
+}
+#challenge-task-container.hour-of-code .task-root-nav .topic {
+  background: #9fc48e;
+}
+#challenge-task-container.hour-of-code .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #689b51;
+}
+#challenge-task-container.hour-of-code .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #437a39;
+}
+#challenge-task-container.hour-of-code .task-header-container .task-icon .check-fail {
+  background-color: #689b51;
+}
+#challenge-task-container.hour-of-code .task-header-container .task-icon .check-pass {
+  background-color: #437a39;
+}
+#challenge-task-container.computer-programming .task-root-nav .domain {
+  background: #689b51;
+}
+#challenge-task-container.computer-programming .task-root-nav .topic {
+  background: #9fc48e;
+}
+#challenge-task-container.computer-programming .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #689b51;
+}
+#challenge-task-container.computer-programming .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #437a39;
+}
+#challenge-task-container.computer-programming .task-header-container .task-icon .check-fail {
+  background-color: #689b51;
+}
+#challenge-task-container.computer-programming .task-header-container .task-icon .check-pass {
+  background-color: #437a39;
+}
+#challenge-task-container.computing .task-root-nav .domain {
+  background: #689b51;
+}
+#challenge-task-container.computing .task-root-nav .topic {
+  background: #9fc48e;
+}
+#challenge-task-container.computing .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #689b51;
+}
+#challenge-task-container.computing .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #437a39;
+}
+#challenge-task-container.computing .task-header-container .task-icon .check-fail {
+  background-color: #689b51;
+}
+#challenge-task-container.computing .task-header-container .task-icon .check-pass {
+  background-color: #437a39;
+}
+#challenge-task-container.partner-content .task-root-nav .domain {
+  background: #329a86;
+}
+#challenge-task-container.partner-content .task-root-nav .topic {
+  background: #65cdb9;
+}
+#challenge-task-container.partner-content .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #329a86;
+}
+#challenge-task-container.partner-content .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #218270;
+}
+#challenge-task-container.partner-content .task-header-container .task-icon .check-fail {
+  background-color: #329a86;
+}
+#challenge-task-container.partner-content .task-header-container .task-icon .check-pass {
+  background-color: #218270;
+}
+#challenge-task-container.math .task-root-nav .domain {
+  background: #4fbad4;
+}
+#challenge-task-container.math .task-root-nav .topic {
+  background: #a1dae8;
+}
+#challenge-task-container.math .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #4fbad4;
+}
+#challenge-task-container.math .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #1c758a;
+}
+#challenge-task-container.math .task-header-container .task-icon .check-fail {
+  background-color: #4fbad4;
+}
+#challenge-task-container.math .task-header-container .task-icon .check-pass {
+  background-color: #1c758a;
+}
+#challenge-task-container.test-prep .task-root-nav .domain {
+  background: #9a72ac;
+}
+#challenge-task-container.test-prep .task-root-nav .topic {
+  background: #c8b2d2;
+}
+#challenge-task-container.test-prep .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #9a72ac;
+}
+#challenge-task-container.test-prep .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #644172;
+}
+#challenge-task-container.test-prep .task-header-container .task-icon .check-fail {
+  background-color: #9a72ac;
+}
+#challenge-task-container.test-prep .task-header-container .task-icon .check-pass {
+  background-color: #644172;
+}
+#challenge-task-container.college-careers-more .task-root-nav .domain {
+  background: #329a86;
+}
+#challenge-task-container.college-careers-more .task-root-nav .topic {
+  background: #65cdb9;
+}
+#challenge-task-container.college-careers-more .task-header-container .task-icon .check-fail .cs-themed-arrow-right {
+  border-left-color: #329a86;
+}
+#challenge-task-container.college-careers-more .task-header-container .task-icon .check-pass .cs-themed-arrow-right {
+  border-left-color: #218270;
+}
+#challenge-task-container.college-careers-more .task-header-container .task-icon .check-fail {
+  background-color: #329a86;
+}
+#challenge-task-container.college-careers-more .task-header-container .task-icon .check-pass {
+  background-color: #218270;
+}
+.test-challenge-also-message-wrapper,
+.test-challenge-alternate-message-wrapper {
+  font-size: 1.2em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  clear: right;
+}
+.test-challenge-also-message-wrapper {
+  color: darkorange;
+  font-weight: 700;
+}
+.test-challenge-alternate-message-wrapper {
+  color: green;
+}
+.scratchpad-challenge-feedback-btn {
+  font-size: 10px;
+  position: absolute;
+  right: 15px;
+  top: 5px;
+}
+.hidden {
+  display: none;
+}
+.test-challenge-modal {
+  left: 55%;
+  padding: 20px;
+  position: absolute;
+  top: -60px;
+  width: 400px;
+  font-size: 12px;
+}
+.test-challenge-modal ul li {
+  font-size: 13px;
+  line-height: 1.5em;
+  margin-top: 6px;
+}
+.test-challenge-modal .close {
+  font-size: 30px;
+  line-height: 5px;
+  opacity: 0.3;
+}
+.scratchpad-challenge-feedback-modal {
+  margin-left: -280px;
+}
+.scratchpad-challenge-feedback-modal .modal-body {
+  padding-top: 5px;
+}
+.scratchpad-challenge-feedback-modal h4 {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.scratchpad-challenge-feedback-modal fieldset legend {
+  margin-bottom: 7px;
+}
+.scratchpad-challenge-feedback-modal fieldset li {
+  margin: 6px 0;
+  border: 1px solid transparent;
+}
+.scratchpad-challenge-feedback-modal fieldset li:hover {
+  cursor: hand;
+  border: 1px solid #ccc;
+}
+.scratchpad-challenge-feedback-modal p {
+  font-size: 14px;
+  line-height: 1.6em;
+  margin: 8px 0;
+}
+.scratchpad-challenge-feedback-modal textarea {
+  width: 95%;
+  height: 50px;
+}
+/* They need a high z-index to overtake the Q-tips */
+.test-challenge-modal,
+.scratchpad-challenge-feedback-modal {
+  z-index: 17000;
+}
+html.cs-tablet #tutorial-page .tutorial-content .content.layer .tutorial-node-content .task-container {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+html.cs-tablet #challenge-task-container.computing .task-header-container .task-header {
+  padding: 10px;
+}
+html.cs-tablet #challenge-task-container.computing .random-stuff {
+  bottom: 0;
+  min-width: 550px;
+  position: absolute;
+  right: 0;
+}
+html.cs-tablet #challenge-task-container.computing .random-stuff .buttons {
+  display: none;
+}
+html.cs-tablet #challenge-task-container.computing .task-header-container .challenge-progress {
+  right: 10px;
+}
+html.cs-tablet .scratchpad-challenge-feedback-btn {
+  display: none;
+  position: absolute;
+  right: 10px;
+  top: 25px;
+}
+html.cs-tablet #objectives-pane.min-contained-and-centered {
+  margin: 0;
+  max-width: 2000px;
+}
+html.cs-tablet .test-challenge-also-message-wrapper {
+  clear: none;
+  font-size: 1em;
+}
+html.cs-tablet .scratchpad-wrap .scratchpad-editor-wrap .scratchpad-editor-tabs {
+  border: none;
+}
+html.cs-tablet #challenge-task-container.computing .objectives-pane-outer .happy-critter {
+  bottom: 10px;
+  right: 10px;
+  z-index: 10;
+}
+html.cs-tablet .rainbowjs .block .input {
+  line-height: 17px;
+  min-width: 40px;
+}
+html.cs-tablet .challenge-warning {
+  display: none;
+}
+html.cs-tablet .editor-status,
+html.cs-tablet .task-header-container {
+  display: none;
+}
+html.cs-tablet #objectives-pane {
+  height: 167px;
+  overflow: auto;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html.cs-tablet #challenge-task-container.computing .objectives-pane-outer .goal-pane {
+  min-height: 167px;
+}
+html.cs-tablet #challenge-task-container.computing .objectives-pane-outer .goal-pane .cool-critter {
+  bottom: -10px;
+}
+/* CSS for nice formatting of structuredjs blanks and variables. */
+.rainbowjs span.structuredjs_blank {
+    border-bottom: 1px dashed gray;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: lightgray;
+    line-height: 2;
+}
+.rainbowjs span.structuredjs_var {
+    border: 1px dotted darkgray;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: white;
+    color: white;
+    line-height: 2;
+}
+.rainbowjs span.structuredjs_var.one, .rainbowjs span.input.one {
+    background-color: rgb(250, 222, 199);
+    border-color: darkorange;
+}
+.rainbowjs span.structuredjs_var.two, .rainbowjs span.input.two {
+    background-color: rgb(248, 232, 248);
+    border: 1px dotted rgb(238, 130, 238);
+}
+.rainbowjs span.structuredjs_var.three, .rainbowjs span.input.three {
+    background-color: rgb(209, 217, 248);
+    border-color: rgb(142, 142, 202);
+}
+.rainbowjs span.structuredjs_var.four, .rainbowjs span.input.four {
+    background-color: rgb(252, 204, 204);
+    border-color: salmon;
+}
+.rainbowjs span.structuredjs_var.five, .rainbowjs span.input.five {
+    background-color: rgb(182, 255, 185);
+    border-color: rgb(79, 189, 57);
+}
+.rainbowjs span.structuredjs_var.six, .rainbowjs span.input.six {
+    background-color: rgb(207, 255, 253);
+    border-color: rgb(42, 174, 199);
+}
+.rainbowjs span.structuredjs_var.seven, .rainbowjs span.input.seven {
+    background-color: rgb(253, 242, 162);
+    border-color: rgb(172, 166, 99);
+}
+
+/**
+ * Textmate-like theme ported from Ace Editor.
+ *
+ * Only affects code within <pre class="rainbowjs"> tags.
+ *
+ * @author Sophia Westwood
+ * @version 1.0.0
+ */
+.rainbowjs {
+    background: #FFF;
+    word-wrap: break-word;
+    margin: 0px;
+    padding: 3px;
+    padding-left: 0px;
+    color: #000;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.rainbowjs {
+    font-family: 'Monaco', 'Consolas', monospace;
+}
+
+.rainbowjs .comment {
+    color: rgb(76, 136, 107)
+}
+
+.rainbowjs .constant {
+    color: rgb(197, 6, 11);
+}
+
+.rainbowjs .constant.numeric {
+    color: rgb(0, 0, 205);
+}
+
+.rainbowjs .storage {
+    color: rgb(0, 0, 255);
+}
+
+.rainbowjs .string {
+    color: rgb(3, 106, 7);
+}
+
+.rainbowjs .keyword, .rainbowjs .selector {
+    color: blue;
+}
+
+.rainbowjs .keyword.operator {
+    color: rgb(104, 118, 135);
+}
+
+.rainbowjs .inherited-class {
+    font-style: italic;
+}
+
+.rainbowjs .entity {
+    color: #3E853F;
+}
+
+.rainbowjs .entity.name.function {
+    color: #0000A2;
+}
+
+.rainbowjs .support {
+    color: #192140;
+}
+
+.rainbowjs .variable.global, .rainbowjs .variable.class, .rainbowjs .variable.instance {
+    color: rgb(49, 132, 149);
+}
+

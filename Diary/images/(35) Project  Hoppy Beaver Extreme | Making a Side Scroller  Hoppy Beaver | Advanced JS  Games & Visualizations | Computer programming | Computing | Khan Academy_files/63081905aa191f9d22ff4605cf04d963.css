@@ -1,0 +1,32 @@
+.scratchpad-project-editor h4 {
+  margin-bottom: 11px;
+}
+.scratchpad-project-editor .cke_editable {
+  background: #FFF;
+  border: 1px solid #CCC;
+  min-height: 100px;
+  padding: 8px 10px;
+}
+.scratchpad-project-editor .cke_editable p {
+  margin: 0 0 1em 0;
+}
+.scratchpad-project-editor .project-editable-area {
+  margin-top: 22px;
+}
+.scratchpad-project-editor .explanation {
+  font-size: 0.8em;
+}
+.scratchpad-project-rubric-editor ul {
+  list-style: disc;
+  margin: 0.5em;
+  padding-left: 30px;
+}
+.scratchpad-project-rubric-editor ul li {
+  padding: 3px;
+}
+.scratchpad-project-rubric-editor ul li input[type=text] {
+  font-size: 16px;
+  padding: 5px;
+  width: 325px;
+}
+

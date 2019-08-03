@@ -1,0 +1,7 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["vendors~./javascript/404-package/404-entry~./javascript/404-package/404-page-entry~./javascript/abou~6d8aa241"],{MgzW:function(r,e,t){"use strict";
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/var s=Object.getOwnPropertySymbols;var f=Object.prototype.hasOwnProperty;var p=Object.prototype.propertyIsEnumerable;function u(r){if(r===null||r===undefined){throw new TypeError("Object.assign cannot be called with null or undefined")}return Object(r)}function n(){try{if(!Object.assign){return false}var r=new String("abc");r[5]="de";if(Object.getOwnPropertyNames(r)[0]==="5"){return false}var e={};for(var t=0;t<10;t++){e["_"+String.fromCharCode(t)]=t}var n=Object.getOwnPropertyNames(e).map(function(r){return e[r]});if(n.join("")!=="0123456789"){return false}var a={};"abcdefghijklmnopqrst".split("").forEach(function(r){a[r]=r});if(Object.keys(Object.assign({},a)).join("")!=="abcdefghijklmnopqrst"){return false}return true}catch(r){return false}}r.exports=n()?Object.assign:function(r,e){var t;var n=u(r);var a;for(var o=1;o<arguments.length;o++){t=Object(arguments[o]);for(var c in t){if(f.call(t,c)){n[c]=t[c]}}if(s){a=s(t);for(var i=0;i<a.length;i++){if(p.call(t,a[i])){n[a[i]]=t[a[i]]}}}}return n}}}]);
+//# sourceMappingURL=../../../../../../../../../../sourcemaps/en/vendors~./javascript/404-package/404-entry~./javascript/404-package/404-page-entry~./javascript/abou~6d8aa241.185a6d98181db3bd4136.js.map
