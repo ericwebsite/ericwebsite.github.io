@@ -1,6 +1,18 @@
 Go to [home.](../index.md)
 
-##8/3/2019
+##8/3/2019 Special Social
+
+I went to a new building. I played mouse trap, and circuit maze with my (new) friends. I also shared out cupcakes. I even saw the mistaken sentence. I had lo~~ooooooooo~~ts of fun
+
+###How to play:
+
+####Mouse trap
+
+You set up the traps. players take turns rolling the dice. if you land on a red, you lose a cheese. if you land on a yellow, take a cheese. if you land on a green, you steal a cheese. if you land on a blue, you can trap someone and steal their cheese( if they have cheese). if you land on a purple, do nothing. 
+
+####Circuit maze
+
+Complete the circuit to light the beacons and you win!
 
 ##The Great Yellowstone Scavenger Hunt
 
