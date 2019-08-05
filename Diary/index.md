@@ -25,7 +25,7 @@ Then my dad drove to the bridge with me. I see some more crystals.
 
 ![](images/Crystal.7.jpg)
 
-After than, at home, my dad clean a crystal by water. 
+After that, at home, my dad clean a crystal by water. 
 
 ![](images/Crystal..8.jpg)
 
