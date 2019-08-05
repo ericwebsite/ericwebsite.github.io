@@ -47,7 +47,7 @@ Complete the circuit to light the beacons and you win!
 
 ##The Great Yellowstone Scavenger Hunt
 
-I went on a great yellowstone scavenger hunt vacation. I went with my family. We got there by car. It was fun. I saw many animals. I say bison, gray wolf, black bear, the grizzly bear, and some dear. I visited lots of places in the park: Steamboat geyser, Mineral terrance, old faithful, and artist's paint pot. I also saw mammoth hot springs. I like my Great Yellowstone Scavenger Hunt.                                                                   
+I went on a great Yellowstone scavenger hunt vacation. I went with my family. We got there by car. It was fun. I saw many animals. I say bison, gray wolf, black bear, the grizzly bear, and some deer. I visited lots of places in the park: Steamboat geyser, Mineral terrance, Old Faithful, and Artist's Paint Pot. I also saw Mammoth Hot Springs. I like my Great Yellowstone Scavenger Hunt.                                                                   
 
 ##7/29/2019 basket ball
 
