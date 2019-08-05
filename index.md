@@ -3,6 +3,7 @@
 Hello everyone,
 
 This is Eric. I am a 4th grader student. I love Minecraft, puzzle, and Python.
+I am 9 years old. 
 
 dad = my dad(Denny)
 

@@ -1,5 +1,36 @@
 Go to [home.](../index.md)
 
+##8/4/2019 The weird story of the crystal adventure. 
+
+Today is crystal day. I drove all the way there. 
+    But not really, because I am not over 16.If you look at home, you can see that I am 9, not any number over (or at )16. 
+Then we go mountain climbing.
+    But not really, because mountains can't climb mountains. That would be weird. Mountains don't have legs. 
+
+![](images/Crystal.1.jpg)
+
+![](images/Crystal.2.jpg)
+
+Then, I mine with a knife. A butter knife. 
+    But not really, because I can't get out rock with the knife. That would be weird and dangerous. 
+Next, we go for the crystals. 
+    But not really, because we don't dig all crystals. It will be long. 
+We got some crystals. We mountain climb back down. 
+    But not really, because mountains can't climb mountains. That would be weird. I thought we talked about it before the images. 
+Then my dad drove to the bridge with me. I see some more crystals. 
+
+[![](images/Crystal.4.jpg)](images/Crystal.5.jpg)
+
+![](images/Crystal.6.jpg)
+
+![](images/Crystal.7.jpg)
+
+After than, at home, my dad clean a crystal by water. 
+
+![](images/Crystal..8.jpg)
+
+I love the adventure. 
+
 ##8/3/2019 Special Social
 
 I went to a new building. I played mouse trap, and circuit maze with my (new) friends. I also shared out cupcakes. I even saw the mistaken sentence. I had lo~~ooooooooo~~ts of fun
@@ -16,7 +47,7 @@ Complete the circuit to light the beacons and you win!
 
 ##The Great Yellowstone Scavenger Hunt
 
-I went on a great yellowstone scavenger hunt vacation. I went with my family. We got there by car. It was fun. I saw many animals. I say bison, gray wolf, black bear, the grizzly bear, and some dear. I visited lots of places in the park: Steamboat geyser, Mineral terrance, old faithful, and artist's paint pot. I also saw mammoth hot springs. I like my Great Yellowstone Scavenger Hunt 
+I went on a great yellowstone scavenger hunt vacation. I went with my family. We got there by car. It was fun. I saw many animals. I say bison, gray wolf, black bear, the grizzly bear, and some dear. I visited lots of places in the park: Steamboat geyser, Mineral terrance, old faithful, and artist's paint pot. I also saw mammoth hot springs. I like my Great Yellowstone Scavenger Hunt.                                                                   
 
 ##7/29/2019 basket ball
 
@@ -53,9 +84,9 @@ I was going on bike when I finish Dinner. I am now at bike park.
 I go on straight. I go on a trail called "Don't stop, won't stop" and "Easy A"
 . I can show you. 
 
-![images](images/Bike.1.png)
-
 ![](images/Bike.1.png)
+
+![](images/Bike.2.png)
 
 ##Emotions helper (out of the red Zone).
  

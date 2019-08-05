@@ -34,3 +34,4 @@ turtle.done()
 
 ![](images/spiral.jpg)
 
+But we can hide turtle with 
