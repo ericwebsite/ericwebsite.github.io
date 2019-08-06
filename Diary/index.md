@@ -1,5 +1,12 @@
 Go to [home.](../index.md)
 
+Terminal Canceled!
+##The zombies
+
+The book was awesome." Hank isn't reading the 'not'". I think my whole school will like it. 
+    Well, it's just the students and teachers. A school can't read. 
+I want another book. 
+
 ##8/4/2019 The weird story of the crystal adventure. 
 
 Today is crystal day. I drove all the way there. 
@@ -112,7 +119,7 @@ At the pool, I and lauren work together to make a paper of calm.
 ![](images/Eric.trigger.com.png(3).png)
 
 When I came back from pool, I was calm from the calm pool with a calm sheet of
-paper in my calm hand and a calm person named Lauren. Lauren made a chart about my angry emotions. 
+paper in my calm hand and a calm person named Lauren. Lauren made a chart about my angry emotions.
 here are the triggers:
 
 ![](images/Eric.Trigger.com.png)
