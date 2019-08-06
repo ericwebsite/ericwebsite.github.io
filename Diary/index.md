@@ -1,6 +1,5 @@
 Go to [home.](../index.md)
 
-Terminal Canceled!
 ##The zombies
 
 The book was awesome." Hank isn't reading the 'not'". I think my whole school will like it. 
