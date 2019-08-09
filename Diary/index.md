@@ -1,5 +1,19 @@
 Go to [home.](../index.md)
 
+##8/8/2019 Gasoline gas and I DID IT!!!!!!!!!
+
+Today, I am going to give the car gas. 
+
+![](images/Gasoline.1.png)
+
+![](images/Gasoline.3.png)
+
+First, I open the lid...cap...I'm not sure. Then, I select the grade 87( regular) and I put the thing in. 
+
+![](images/Gasoline.2.png)
+
+Then, after a while, It goes POP and I take the heavy thing out. 
+
 ##The zombies
 
 The book was awesome." Hank isn't reading the 'not'". I think my whole school will like it. 
