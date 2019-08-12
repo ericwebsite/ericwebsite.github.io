@@ -1,5 +1,55 @@
 Go to [home.](../index.md)
 
+##The Arduino mega 2560. 
+
+The Arduino mega 2560 board is a circuit board. I'll show you how does the displays work( 1-digit and 4-digit displays). 
+
+###1-digit display. 
+
+So, first I am going to show you how a 1-digit display works. 
+
+The diagram below shows you the segments and pins. 
+
+![](images/Arduino.1.jpg)
+
+The statements below tell you which pin means which segment. 
+
+Pin 1 to segment E
+
+Pin 2 to segment D
+
+Pin 3 to GND
+
+Pin 4 to segment C
+
+Pin 5 to segment DP
+
+Pin 6 to segment B
+
+Pin 7 to segment A
+
+Pin 8 to GND
+
+Pin 9 to segment F
+
+Pin 10 to segment G
+
+###4-digit display. 
+
+Now, I am going to teach you about the 4-digit display. 
+
+The 4-digit display is like the 1-digit display but is different in some ways. 
+
+The diagram below shows the pins on the common-cathode type. Note that segment A is connected to everything. 
+
+![](images/Arduino.3.png)
+
+![](images/Arduino.4.png)
+
+Since it's common-cathode, the pins 1, 2, 3, 4, d1, d2, d3, and d4 is a cathode(-). 
+Even though A (and all other segments )is a connected segment, it is still possible to display 4 different stuff, like 1234. 
+Click or press [here](http://haneefputtur.com/7-segment-4-digit-led-display-sma420564-using-arduino.html) for more.
+
 ##8/8/2019 Gasoline gas and I DID IT!!!!!!!!!
 
 Today, I am going to give the car gas. 
