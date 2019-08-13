@@ -1,5 +1,9 @@
 Go to [home.](../index.md)
 
+##Zombies 
+
+This summer, I read the book named " _Here's Hank, There's a Zombie in my bathtub._ ". Hank is a boy who goes to school. Hank lives with his mom, dad, Frankie, and Emily. Hank is getting ready for Halloween and watches a scary movie about zombies. He had dreams about zombies. Hank went to the bathroom and saw a zombie. He didn't know it was Frankie dressed up like a zombie. At that time, he was shocked. At the end of the story, Hank knows that zombies don't really exist. I really enjoy the book. 
+
 ##The Arduino mega 2560. 
 
 The Arduino mega 2560 board is a circuit board. I'll show you how does the displays work( 1-digit and 4-digit displays). 
@@ -34,6 +38,8 @@ Pin 9 to segment F
 
 Pin 10 to segment G
 
+Click or press [here](https://www.instructables.com/id/Arduino-7-Segment-Display-Counter/) for more.
+
 ###4-digit display. 
 
 Now, I am going to teach you about the 4-digit display. 
@@ -64,7 +70,7 @@ First, I open the lid...cap...I'm not sure. Then, I select the grade 87( regular
 
 Then, after a while, It goes POP and I take the heavy thing out. 
 
-##The zombies
+##The zombies2
 
 The book was awesome." Hank isn't reading the 'not'". I think my whole school will like it. 
     Well, it's just the students and teachers. A school can't read. 
@@ -531,7 +537,7 @@ I also see a pear(. Wow).
 ![](images/pear.jpg)
     
     Did you know:
-    I even saw a bird
+        I even saw a bird 
     
 ![](images/bird.jpg)
 
