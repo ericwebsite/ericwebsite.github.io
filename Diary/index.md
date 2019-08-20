@@ -1,5 +1,12 @@
 Go to [home.](../index.md)
 
+##Spencer
+
+Spencer is a new person. Today, I am going to
+ introduce him to you. Spencer ward is 26 years old and likes to ride his bike,
+ read, cook food, and go camping. Spencer's mom and dad live in seattle 
+and his sister lives in New York. Spencer's dad is an Oncologist and his sister is a lawyer. I like learning about Spencer. 
+
 ##Zombies 
 
 This summer, I read the book named " _Here's Hank, There's a Zombie in my bathtub._ ". Hank is a boy who goes to school. Hank lives with his mom, dad, Frankie, and Emily. Hank is getting ready for Halloween and watches a scary movie about zombies. He had dreams about zombies. Hank went to the bathroom and saw a zombie. He didn't know it was Frankie dressed up like a zombie. At that time, he was shocked. At the end of the story, Hank knows that zombies don't really exist. I really enjoy the book. 
