@@ -1,11 +1,28 @@
 Go to [home.](../index.md)
 
+##Arguing
+
+![](images/Arguing.jpeg)
+
+Today, I argued @ the lock. Oops. I forgot to give imformation. 
+How the lock works: 
+First, a boat enters.
+Then, when the water level is same, The boat exits. 
+The same works the other way. 
+Then I go to the park. 
+I thought we are going to home!!!!!!!!!!!!!!!
+I talked to dad a lot. 
+Then, when I tell the truth, he start yelling!!!!!!!!!!!!!!!
+Luckily, for me, gordon is "on my team". He told dad a lot. 
+However, mom is "on dad's team". 
+
+
 ##Spencer
 
 Spencer is a new person. Today, I am going to
  introduce him to you. Spencer ward is 26 years old and likes to ride his bike,
  read, cook food, and go camping. Spencer's mom and dad live in seattle 
-and his sister lives in New York. Spencer's dad is an Oncologist and his sister is a lawyer. I like learning about Spencer. 
+and his sister lives in New York. Spencer's dad is an Oncologist and his sister is a lawyer. I like learning about Spencer. (Or do I?)
 
 ##Zombies 
 
