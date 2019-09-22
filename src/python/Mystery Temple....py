@@ -5,7 +5,7 @@ time.sleep(3)
 GoldKey = "true"
 lives = 3
 continue1 = "f"
-while lives != 0:
+while lives > 0:
     print("You went in.")
     time.sleep(3)
     print("There are 2 pathways and you have 3 lives to start with.")
