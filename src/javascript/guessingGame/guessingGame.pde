@@ -8,6 +8,7 @@ void setup() {
     var y = 300;
     background(100, 100, 200);
 }
+
 void draw(){
 
 

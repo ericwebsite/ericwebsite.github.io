@@ -1,5 +1,35 @@
 Go to [home.](../index.md)
 
+##The trash and air joke
+
+One day, I made a joke. It is time to clean up. 
+
+Miss Moon: "It is time to clean up. If you haven't wiped the tables, pick ten pieces off the floor. "
+
+Eric was pretending to pick trash ten times. He show it after. 
+
+Miss Moon: "That is not ten pieces from the floor. "
+
+Eric: "Yes it is. It is 10 pieces of air. "
+
+Kayla was Laughing.
+
+From now on, she would say "It is time to clean up. If you haven't wiped the tables, pick ten pieces of trash off the floor. ". 
+
+#The trash and floor joke
+
+One day, I made a joke. 
+
+It is time to clean up. 
+
+Miss Moon said "It is time to clean up. If you haven't wiped the tables, pick ten pieces off the floor. ".
+
+When I was near Kayla, I said "She told us to pick 10 pieces (of/off) the floor". 
+
+After a while, I said"That means you pick parts of the floor off and ruin the floor. "
+
+Kayla vibrated her lips and say "what". 
+
 ##Arguing
 
 ![](images/Arguing.jpeg)
@@ -26,7 +56,7 @@ and his sister lives in New York. Spencer's dad is an Oncologist and his sister 
 
 ##Zombies 
 
-This summer, I read the book named " _Here's Hank, There's a Zombie in my bathtub._ ". Hank is a boy who goes to school. Hank lives with his mom, dad, Frankie, and Emily. Hank is getting ready for Halloween and watches a scary movie about zombies. He had dreams about zombies. Hank went to the bathroom and saw a zombie. He didn't know it was Frankie dressed up like a zombie. At that time, he was shocked. At the end of the story, Hank knows that zombies don't really exist. I really enjoy the book. 
+This summer, I read the book named " _Here's Hank, There's a Zombie in my bathtub._ ". Hank is a boy who goes to school. Hank lives with his mom, dad, Frankie, and Emily. Hank is getting ready for Halloween and watches a scary movie about zombies. He had dreams about zombies. Hank went to the bathroom and saw a zombie. He didn't know it was Frankie dressed up like a zombie. At that time, he was shocked. At the end of the story, Hank knows that zombies don't really exist. I really enjoy the book.                     
 
 ##The Arduino mega 2560. 
 
@@ -625,4 +655,4 @@ campus here. See picture below.
     
 ![](./images/amazon.jpg)
 
-Go to [home.](../index.md)
+Go to [home](../index.md) using this shortcut. 

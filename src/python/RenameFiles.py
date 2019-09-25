@@ -22,8 +22,8 @@ def rename_and_copy_files(src, dest, label):
     counter = 1
     for file in files:
         # print (file)
-        # TODO: rename and copy file
-        # TODO: copy file from <file> to <>
+        # TODO_: rename and copy file
+        # TODO_: copy file from <file> to <>
         #
         # to
         # dest + ("/test" or "/train") + label + new file name
@@ -33,7 +33,7 @@ def rename_and_copy_files(src, dest, label):
             dest_file = dest + '/train/' + label + '/' + str(counter) + '.mp4'
         shutil.copy(file, dest_file)
         counter += 1
-        
+
         print("from: " + file + "\nto: " + dest_file)
 
 def main():
