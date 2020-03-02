@@ -1,5 +1,17 @@
 Go to [home.](../index.md)
 
+##The Math plus Coding at 2020
+
+This day, My dad asks how I can detect overlap of 2 random rectangles. . 
+
+![](images/overlap1.jpg)
+
+Then, I wrote: 
+
+![](images/overlap2.jpg)
+
+Is that correct? please tell me! 
+
 ##The trash and air joke
 
 One day, I made a joke. It is time to clean up. 
@@ -16,7 +28,7 @@ Kayla was Laughing.
 
 From now on, she would say "It is time to clean up. If you haven't wiped the tables, pick ten pieces of trash off the floor. ". 
 
-#The trash and floor joke
+##The trash and floor joke
 
 One day, I made a joke. 
 
@@ -26,7 +38,7 @@ Miss Moon said "It is time to clean up. If you haven't wiped the tables, pick te
 
 When I was near Kayla, I said "She told us to pick 10 pieces (of/off) the floor". 
 
-After a while, I said"That means you pick parts of the floor off and ruin the floor. "
+After a while, I said "That means you pick parts of the floor off and ruin the floor". 
 
 Kayla vibrated her lips and say "what". 
 
@@ -100,7 +112,7 @@ Now, I am going to teach you about the 4-digit display.
 
 The 4-digit display is like the 1-digit display but is different in some ways. 
 
-The diagram below shows the pins on the common-cathode type. Note that segment A is connected to everything. 
+The diagram below shows the pins on the common-cathode type. Note that segment A is connected to every segment A. 
 
 ![](images/Arduino.3.png)
 
@@ -133,7 +145,7 @@ I want another book.
 ##8/4/2019 The weird story of the crystal adventure. 
 
 Today is crystal day. I drove all the way there. 
-    But not really, because I am not over 16.If you look at home, you can see that I am 9, not any number over (or at )16. 
+    But not really, because I am not over 16. If you look at home, you can see that I am 9, not any number over (or at )16. 
 Then we go mountain climbing.
     But not really, because mountains can't climb mountains. That would be weird. Mountains don't have legs. 
 
